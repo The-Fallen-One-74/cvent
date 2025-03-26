@@ -8,3 +8,5 @@ The core website will consist of:
 - Mobile application for the videos
 
 Second part of the project will be a website builder that can be used for outside clinic and doctors. So this must be intuitive and easy to use. Most likely drag and drop.
+
+More Information will be added as necessary.
