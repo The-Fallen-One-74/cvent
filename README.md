@@ -1,6 +1,6 @@
 # cvent
 
-Cvent is a website for medical professionals to give advice, tutorials and other information to others who need to learn.
+Mecc Inc. is a website for medical professionals to give advice, tutorials and other information to others who need to learn.
 
 The core website will consist of:
 - Informative pages
